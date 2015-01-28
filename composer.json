@@ -2,7 +2,7 @@
     "name": "hopeter1018/background-process",
     "description": "Using background web request to achieve a cron job/scheduled task",
     "keywords": ["background", "cron", "cron job", "schedule", "scheduled"],
-	"version": "0.0.3-dev",
+	"version": "0.0.1-dev",
     "license": "MIT",
     "authors": [
         {
